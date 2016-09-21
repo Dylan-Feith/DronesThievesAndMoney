@@ -4,4 +4,5 @@ In this project, Drones must catch Thieves whose goals are to steal two bags of 
 
 You can directly import the zip file with Eclipse.
 
+Take a look at the picure to see what is possible to do !
 Enjoy simulating ! :)
